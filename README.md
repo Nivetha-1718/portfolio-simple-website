@@ -1,9 +1,6 @@
-  # portfolio-simple-website
   
 
-  
-
-  # My Portfolio Website
+  ## My Portfolio Website
 
   Welcome to my portfolio website! This project is a simple two-page site that includes a homepage and a contact page.It was created using HTML and basic CSS to provide a clean and 
   straightforward user experience. 
@@ -28,10 +25,6 @@
 
   Thank you for visiting my portfolio website!
 
-
----
-
-This description should be a good fit for your GitHub README file.
 
 
 
