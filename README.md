@@ -1,18 +1,33 @@
-# portfolio-simple-website
-Here's a more concise description that focuses on the two pages of your portfolio website:
+  # portfolio-simple-website
+  
 
----
+  
 
-# My Portfolio Website
+  # My Portfolio Website
 
-This is a simple portfolio website that I created using HTML and basic CSS. It consists of two main pages:
+  Welcome to my portfolio website! This project is a simple two-page site that includes a homepage and a contact page.It was created using HTML and basic CSS to provide a clean and 
+  straightforward user experience. 
 
-- **Home Page**: An introduction to who I am, featuring my background, skills, and interests.
-- **Contact Page**: A straightforward way for visitors to reach out to me, including my email and social media links.
+  ## Pages
 
-This project highlights my foundational web development skills and my attention to clean, minimalistic design.
+  - **Home Page**: An introduction to who I am, featuring my background, skills, and interests.
+  - **Contact Page**: A straightforward way for visitors to reach out to me, including my email and social media links.
 
-Feel free to explore, and I welcome any feedback!
+  ## Technologies Used
+
+  - HTML
+  - CSS
+
+  ## How to View
+
+  You can access my portfolio website by visiting [Link] Feel to explore the content and get in touch!
+
+  ## Contributing
+
+  If you'd like to contribute or suggest improvements, please feel free to open an issue or create a pull request. Your feedback is greatly appreciated.  
+
+  Thank you for visiting my portfolio website!
+
 
 ---
 
