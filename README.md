@@ -17,7 +17,7 @@
 
   ## How to View
 
-  You can access my portfolio website by visiting [Link] Feel to explore the content and get in touch!
+  You can access my portfolio website by visiting [https://nivetha-1718.github.io/portfolio-simple-website/] Feel to explore the content and get in touch!
 
   ## Contributing
 
